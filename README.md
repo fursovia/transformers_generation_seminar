@@ -10,4 +10,4 @@
 5. Инференс Machine Translation моделей
 
 
-(Video)[https://youtu.be/lImUvMWulOQ?list=PLjCCarnDJNsvLoA9IRPRAV71x9Gapm4_T]
+[Video](https://youtu.be/lImUvMWulOQ?list=PLjCCarnDJNsvLoA9IRPRAV71x9Gapm4_T)
